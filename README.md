@@ -1,1 +1,1 @@
-# artificial-intelligence-fundamentals
+# Artificial Intelligence Fundamentals
