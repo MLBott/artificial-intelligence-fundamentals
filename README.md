@@ -7,10 +7,25 @@ Understand the fundamentals of Artificial Intelligence.
 The repository contains work based on the topics below.
 
 ## Criteria
->
+> Introduction to AI
 
->
+> Search
 
->
+> Heuristic and Adversarial Search
+
+> Constant Satisfaction
+
+> Logic
+
+> Planning
+
+> Probabilistic Reasoning
+
+> Learning
+
+> Natural Language Processing
+
+> Perception ? Advanced Topics
 
 ## Tech Stack
+> Python
