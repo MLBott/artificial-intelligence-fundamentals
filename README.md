@@ -28,4 +28,6 @@ The repository contains work based on the topics below.
 > Perception ? Advanced Topics
 
 ## Tech Stack
+> Java
+
 > Python
